@@ -1,0 +1,85 @@
+.picture {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+p {
+font-family: 'Times New Roman', Times, serif;
+font-size: x-large;
+font-weight: bold;
+text-align: center;
+color: #000;
+}
+
+.text {
+    text-align: center;
+    font-weight: bold;
+    font-size:medium;
+
+}
+
+.info {
+    font-size: medium;
+}
+
+.ui.pink.tablet.stackable.table {
+    width: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#MyClockDisplay {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+#start {
+    margin-left:45.5%;
+    margin-top: 1%;
+}
+.ui.pink.button {
+    margin-left:45.5%
+    }
+
+#one {
+    margin-top: 1%;
+    margin-left: 47%;
+}
+
+#login {
+    margin-top: 1%;
+}
+
+#blasting{
+    margin-left:46.5%
+}
+
+#stop {
+    margin-top: 1%;
+
+}
+
+#myBtn {
+    margin-left: 48%;
+    margin-bottom: 1%;
+}
+
+#lblTime {
+    margin-left: 48.5%;
+
+}
+
+#hom {
+    margin-left: 0%;
+}
+
+#countdown {
+    margin-left: 47%;
+}
+
+#two {
+    margin-left: 47%;
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="style.css" rel="stylesheet"> 
+    <script src="login.js"></script> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
+
+    <title>Login - UAT Space Page</title> 
+    <!-- Carisa Saenz-Videtto -->
+  </head>
+  <body>
+    <img class="picture" src="space 3.jpg">
+      <p class="words">Welcome to the UAT Space Webpage. Please login. . .</p> <!-- Login prompt -->
+      <p id="loginstatus">Status of login. . .</p> 
+      <p class="info">**First and last name no more than 20 characters**</p>
+      <p class="info">**Badge number must be 3 more less digits**</p>
+      <form id="credsubmit" onsubmit="return false " class="text">
+        First Name: <input type="text" id="fname"/> 
+        Last Name: <input type="text" id="lname"/> 
+        Badge Number: <input type="number" id="badgeid"/> 
+      </form>
+      <button class="ui pink button centered" id= login onclick="checkCreds()">Login</button> <!--checks js requirements -->
+
+    </div>
+  </body>
+</html>
