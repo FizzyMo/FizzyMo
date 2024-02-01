@@ -2,7 +2,7 @@
 
 <!--
 **FizzyMo/FizzyMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://hit.yhype.me/github/profile?user_id=44802872)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=fizzymo&color=ff69b4)
