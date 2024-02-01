@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=fizzymo&color=ff69b4&style=for-the-badge&abbreviated=true)
+
 <h1 align="center">Hi 👋, I'm Carisa Saenz-Videtto</h1>
+<p align="center">
+<img align="center"src="https://komarev.com/ghpvc/?username=fizzymo&color=ff69b4&style=for-the-badge&abbreviated=true">
+  </p>
 <h3 align="center">A passionate Web developer</h3>
 
 - 📫 How to reach me **carisasaenz@gmail.com**
