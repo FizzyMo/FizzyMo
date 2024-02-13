@@ -17,9 +17,33 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Carisa Saenz-Videtto</h1>
 <p align="center">
 <img align="center"src="https://komarev.com/ghpvc/?username=fizzymo&color=ff69b4&style=for-the-badge&abbreviated=true">
-<h3 align="center">A passionate Web developer</h3>
+  
+***
+Hi there! I'm an AZ-based freelance web developer. My focus is on introducing creativity and problem-solving skills to the web development industry. Currently balancing my freelancing work with my studies for a Bachelor of Science in Computer Science at the University of Advancing Technology. I'm always looking to advance in this ever changing industry. For detecting and resolving development puzzles in the field of coding, I'm the go-to person. 95% of clients are satisfied with my work, which not only meets deadlines but frequently exceeds their expectations. When I worked in healthcare as a medical coder in the past, I applied my problem-solving abilities and increased productivity by 20% while decreasing errors by 15%. I'm excited about what lies ahead and the countless opportunities in the exciting field of web development! Please contact me if you would want to talk about technology, dogs, or anything else in between. 🚀✨
 
-- 📫 How to reach me **carisasaenz@gmail.com**
+***
+## Currently Working On
+- [ ] Updating portfolio(new set of paint)
+- [ ] Revising story line Xayah-Rakan
+- [ ] Creating a mock website for start up
+***
+
+### Completed Courses
+- Beginning Website Interfaces
+- Introduction to Programming
+- Java Programming I 
+- Java Programming II 
+- C/C++ Programming I 
+- C++ Programming II 
+- Python Programming I 
+- Python Programming II 
+- Data Structures and Algorithms 
+- Student Innovation Project I  
+- Thinking Strategies 
+- Technology, Society and Ethics  
+- Entrepreneurship in Business 
+***
+📫 How to reach me **carisasaenz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
