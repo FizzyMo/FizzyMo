@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <img align="center"src="https://komarev.com/ghpvc/?username=fizzymo&color=ff69b4&style=for-the-badge&abbreviated=true">
   
 ***
-Hi there! I'm an AZ-based freelance web developer. My focus is on introducing creativity and problem-solving skills to the web development industry. Currently balancing my freelancing work with my studies for a Bachelor of Science in Computer Science at the University of Advancing Technology. I'm always looking to advance in this ever changing industry. For detecting and resolving development puzzles in the field of coding, I'm the go-to person. 95% of clients are satisfied with my work, which not only meets deadlines but frequently exceeds their expectations. When I worked in healthcare as a medical coder in the past, I applied my problem-solving abilities and increased productivity by 20% while decreasing errors by 15%. I'm excited about what lies ahead and the countless opportunities in the exciting field of web development! Please contact me if you would want to talk about technology, dogs, or anything else in between. 🚀✨
+Hi there! I'm an AZ-based freelance web developer. My focus is on introducing creativity and problem-solving skills to the web development industry. Currently balancing my freelancing work with my studies for a Bachelor of Science in Computer Science at the University of Advancing Technology. I'm always looking to advance in this ever changing industry. For detecting and resolving development puzzles in the field of coding, I'm the go-to person. 95% of clients are satisfied with my work, which not only meets deadlines but frequently exceeds their expectations. When I worked in healthcare as a medical coder in the past, I applied my problem-solving abilities and increased productivity by 45% while decreasing errors by 35%. I'm excited about what lies ahead and the countless opportunities in the exciting field of web development! Please contact me if you would want to talk about technology, dogs, or anything else in between. 🚀✨
 
 ***
 ## Currently Working On
 - [ ] Updating portfolio(new set of paint) 
 - [x] Revising story line Xayah-Rakan Finished (02/18/2024)
-- [ ] Creating a mock website for start up
+- [x] Creating a mock website for start up (05/01/2024)
 ***
 
 ### Completed Courses
