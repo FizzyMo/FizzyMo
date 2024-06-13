@@ -23,9 +23,12 @@ Hi there! I'm an AZ-based freelance web developer. My focus is on introducing cr
 
 ***
 ## Currently Working On
-- [ ] Updating portfolio(new set of paint) 
-- [x] Revising story line Xayah-Rakan Finished (02/18/2024)
-- [x] Creating a mock website for start up (05/01/2024)
+- [x] Updating portfolio(new set of paint)
+  * **Finished** 06/13/2024)
+- [x] Revising story line Xayah-Rakan
+  * **Finished** (02/18/2024)
+- [x] Creating a mock website for start up
+  * **Finished** (05/01/2024)
 ***
 
 ### Completed Courses
