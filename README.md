@@ -51,7 +51,7 @@ Hi there! I'm an AZ-based freelance web developer. My focus is on introducing cr
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carisa-saenz-videtto-669929173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carisa-saenz-videtto-669929173" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@carisasaenz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@carisasaenz" height="30" width="40" /></a>
+<a href="https://youtube.com/@carisasaenz?si=wd_hz3HqiMa_ptCA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@carisasaenz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
