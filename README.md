@@ -68,13 +68,3 @@ Advancing Computer Science graduate (University of Advancing Technology) driven 
     <summary>Deploying and Managing Applications</summary>
    <img src="https://img.shields.io/badge/Docker-pink?style=for-the-badge&logo=docker&logoColor=black"> <img src="https://img.shields.io/badge/Vercel-pink?style=for-the-badge&logo=vercel&logoColor=black"> <img src="https://img.shields.io/badge/GitHub%20Pages-pink?style=for-the-badge&logo=GitHub%20Pages&logoColor=black"> <img src="https://img.shields.io/badge/replit-pink?style=for-the-badge&logo=replit&logoColor=black>
   </details>
-                                                                                                                                                                                                                                               
- <h3> 🔎 Containerization & Deployment </h3>
- <img src="https://img.shields.io/badge/Playwright-pink?style=for-the-badge&logo=playwright&logoColor=black">
- 
-<h2 align="center">📚 Libraries</h2>
-<h2 align="center"> 🚀 Hosting & Deployment Platforms</h2>
-<h2 align="center"> 📖 Educational Resources</h2>
-<h2 align="center"> 📊 Analytics & Tracking</h2>
-<h2 align="center"> 🖥️ Operating Systems</h2>
-
