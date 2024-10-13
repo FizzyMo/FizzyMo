@@ -4,12 +4,16 @@
 <a href="https://www.linkedin.com/in/carisa-saenz-videtto-669929173/">
   <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge">
 </a>
-<a href="mailto:carisasaenz@gmail.com">
+<a href="mailto:carisa.dev@gmail.com">
 <img src="https://img.shields.io/badge/gmail-pink?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail Badge">
 </a>
-  <a href="https://carisacoding.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-pink?style=for-the-badge&logo=hashnode&logoColor=black">
-  </a>
+<a href="https://beyondbackend.hashnode.dev/">
+  <img src="https://img.shields.io/badge/Hashnode-pink?style=for-the-badge&logo=hashnode&logoColor=black">
+</a>
+<a href="https://beyondbackend.gitbook.io/beyond-backend-docs/">
+  <img src="https://img.shields.io/badge/GitBook-pink?style=for-the-badge&logo=gitbook&logoColor=black">
+</a>
+</p>
 
 A **backend developer** dedicated to building scalable and efficient applications. At **Beyond Backend**, I explore advanced backend solutions that push the boundaries of what’s possible in software development. I believe in writing clean, maintainable code and am always eager to learn and adapt to new technologies.
 
