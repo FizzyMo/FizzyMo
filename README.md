@@ -37,3 +37,6 @@ Feel free to explore my repositories for more projects
 ***
 Thank you for visiting my GitHub profile at **Beyond Backend** Feel free to reach out if you're interested in collaborating or have any questions!
 ***
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fizzymo&show_icons=true&locale=en&layout=compact" alt="fizzymo" />
+</p>
