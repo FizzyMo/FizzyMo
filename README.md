@@ -34,6 +34,10 @@ Feel free to explore my repositories for more projects
 <img src="https://img.shields.io/badge/C%2B%2B-pink?style=for-the-badge&logo=c%2B%2B&logoColor=black"> <img src="https://img.shields.io/badge/CSS3-pink?style=for-the-badge&logo=css3&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-pink?style=for-the-badge&logo=html5&logoColor=black"> <img src="https://img.shields.io/badge/Java-pink?style=for-the-badge&logo=openjdk&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-pink?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Python-pink?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/R-pink?style=for-the-badge&logo=r&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-pink?style=for-the-badge&logo=typescript&logoColor=black"> <img src="https://img.shields.io/badge/React-pink?style=for-the-badge&logo=react&logoColor=black">
 </p>
 
+<h3 align="center"> Latest Blog Posts</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ***
 Thank you for visiting my GitHub profile at **Beyond Backend** Feel free to reach out if you're interested in collaborating or have any questions!
 ***
