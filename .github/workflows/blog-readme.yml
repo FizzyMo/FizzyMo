@@ -16,6 +16,9 @@ jobs:
     - name: Install dependencies
       run: npm install axios rss-parser
     - name: Update README
+      env:
+        HASHNODE_USERNAME: ${{ secrets.HASHNODE_USERNAME }}
+        GITBOOK_SPACE_ID: ${{ secrets.GITBOOK_SPACE_ID }}
       run: node .github/scripts/update-readme.js
     - name: Commit and push if changed
       run: |
