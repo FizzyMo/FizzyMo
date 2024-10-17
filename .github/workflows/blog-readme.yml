@@ -1,0 +1,26 @@
+name: Update README with latest blog posts
+
+on:
+  schedule:
+    - cron: '0 10-13 * * 4'  # Runs every Thursday from 10am to 1pm
+  workflow_dispatch:  # Allows manual triggering
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+    - name: Install dependencies
+      run: npm install axios rss-parser
+    - name: Update README
+      run: node .github/scripts/update-readme.js
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update README with latest blog posts"
+        git push
